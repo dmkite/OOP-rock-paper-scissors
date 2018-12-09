@@ -64,3 +64,4 @@ else{
     const result = new Game
     console.log(result.decide(user.makeMove('scissors'), computer.makeMove()) )
 }
+Z   
